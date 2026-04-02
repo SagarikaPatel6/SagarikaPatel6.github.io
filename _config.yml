@@ -1,0 +1,11 @@
+title: "Sagarika Patel"
+description: "Data Analyst & Automation Architect"
+theme: jekyll-theme-cayman
+
+# Optional: Custom colors for minimal theme
+logo: /assets/profile.png
+show_downloads: false
+
+# GitHub Pages settings
+markdown: kramdown
+highlighter: rouge
